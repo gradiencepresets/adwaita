@@ -4,6 +4,7 @@ description = "Adwaita is the Design System for GNOME"
 badges = [ "official", "popular" ]
 author = "GradienceTeam"
 maintainer = "GradienceTeam"
+plugins = { }
 
 [light.variables]
 accent_color = "#1c71d8"
